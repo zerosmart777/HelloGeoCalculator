@@ -1,0 +1,3 @@
+﻿  HelloGeoCalculator.cpp
+e:\geocalculator\hellogeocalculator\hellogeocalculator.cpp(12): warning C4101: 'result_oval': unreferenced local variable
+  HelloGeoCalculator.vcxproj -> E:\GeoCalculator\HelloGeoCalculator\Debug\HelloGeoCalculator.exe
